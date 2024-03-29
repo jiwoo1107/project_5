@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  width: 100%;
+  background-color: gold;
+}
+
+.col1 h4 {position: relative;}
+h4 {position: absolute; top: -100px; }
+
+.carousel-item img {width: 100%; height: 100%;}
